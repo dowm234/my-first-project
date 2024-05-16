@@ -1,4 +1,4 @@
-sconst inputBox = document.getElementById("input-box");
+const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 const completedCounter = document.getElementById("completed-counter");
 const uncompletedCounter = document.getElementById("uncompleted-counter");
